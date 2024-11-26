@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.bg-color{
+    background-color: black;
+    background-size: cover;
+    height: 1000vh;
+}
+.main-heading{
+    color:#ffffff;
+    font-size: 34px;
+    font-family:'Bree serif';
+    font-weight: normal;
+    margin-left: 15px;
+}
+.main-card{
+    background-color: #e6f6ff;
+    background-size: cover;
+    height: 35vh;
+    border-radius: 3vh;
+    margin: 15px;
+    margin-right: 50px;
+}
+.image-card{
+    height: 35vh;
+    width: 22vh;
+}
+.padding-main{
+    padding: 15px;
+}
+.abdul-heading{
+    color: rgb(29, 46, 78);
+    font-size: 16px;
+    font-family: Bree serif;
+    font-weight: normal;
+}
+.abdul-paragraph{
+    font-size: 12px;
+    font-family: Bree serif;  
+    color: black;
+}
+.sub-paragraph{
+    font-size: 12px;
+    font-family: Bree serif;
+    font-weight: normal;
+}
+.mini-heading{
+    color: #ffffff;
+    font-size: 24px;
+    font-family: Bree serif;
+    font-style: normal;
+    font-weight: normal;
+    margin-left: 15px;
+}
+.sub-card{
+    margin: 15px;
+}
+.recommended-container{
+    margin-left: 15px;
+}
+.chetan-img{
+    height: 125px;
+    width: 80px;
+}
+
+.chetan-heading{
+    color:#e6f6ff;
+    font-size: 16px;
+    font-family: Bree serif;
+}
+.chetan-paragraph{
+    color:#cad3d8;
+    font-size: 12px;
+    font-family: Bree serif;
+}
+.alignig-center{
+    padding: 24px;
+    text-align: center;
+}
+.abdul-bigimg{
+    height: 290px;
+    width: 290px;
+    margin-bottom: 20px;
+}
+.heading{
+    color: #e6f6ff;
+    font-family: Bree Serif;
+    font-size: 28px;
+}
+.author-paragraph{
+    color: #7a8289;
+    font-size: 13px;
+    font-family: Bree Serif;
+}
+.paragraph{
+    color: #cad3d8;
+    font-size: 15px;
+    font-family: Bree Serif;
+    margin-top: 10px;
+}
+.button-styling{
+    margin: 4px;
+}
